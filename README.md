@@ -17,3 +17,6 @@
 14. Private: Most of the methods are private which is a default. When the user wants the variable visible in its own class only. 
 15. Methods: Private and public which calls the method. 
 16. Throw New: this function is an exception.  
+17. Composer dump-autoload: clears cache, possible solution when classes are not found
+18. Unit tests: tests individual functions
+19. Integration tests: tests entire units 
